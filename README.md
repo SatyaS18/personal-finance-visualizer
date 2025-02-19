@@ -2,7 +2,7 @@
 
 A **Next.js-powered** personal finance tracker that helps users manage their **expenses, budgets, and spending insights** effectively. Users can **add transactions, track monthly expenses, analyze category-wise breakdowns, set budgets, and compare actual vs. budgeted spending.**
 
-📌 **Live Demo:** [personal-finance-visualizer.vercel.app](https://personal-finance-visualizer-gold.vercel.app/)
+📌 **Live Demo:** [https://personal-finance-visualizer-gold.vercel.app](https://personal-finance-visualizer-gold.vercel.app/)
 
 ---
 
