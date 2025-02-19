@@ -2,7 +2,7 @@
 
 A **Next.js-powered** personal finance tracker that helps users manage their **expenses, budgets, and spending insights** effectively. Users can **add transactions, track monthly expenses, analyze category-wise breakdowns, set budgets, and compare actual vs. budgeted spending.**
 
-📌 **Live Demo:** [personal-finance-visualizer.vercel.app](https://personal-finance-visualizer.vercel.app)
+📌 **Live Demo:** [personal-finance-visualizer.vercel.app](https://personal-finance-visualizer-gold.vercel.app/)
 
 ---
 
@@ -63,7 +63,9 @@ npm install
 ```
 
 ### **3️⃣ Set Up Environment Variables**
+
 Create a .env.local file in the root directory and add:
+
 ```env
 MONGODB_URI=mongodb+srv://your_user:your_password@your_cluster.mongodb.net/personal_finance
 ```
@@ -73,7 +75,7 @@ MONGODB_URI=mongodb+srv://your_user:your_password@your_cluster.mongodb.net/perso
 ```sh
 npm run dev
 ```
+
 Open http://localhost:3000 to see the app.
 
 ---
-
